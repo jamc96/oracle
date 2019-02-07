@@ -1,0 +1,22 @@
+---
+oracle::packages:
+  - compat-libstdc++-33.i686
+  - gcc
+  - gcc-c++
+  - glibc-devel.i686
+  - libstdc++.i686
+  - libstdc++-devel.i686
+  - libaio.i686
+  - libaio-devel
+  - libaio-devel.i686
+  - libstdc++-devel
+  - unixODBC.i686
+  - unixODBC.x86_64
+  - unixODBC-devel.i686
+  - unixODBC-devel.x86_64
+  - xorg-x11-xauth
+  - xorg-x11-apps
+  - xorg-x11-utils
+  - elfutils-libelf-devel
+  oracle::hugepage: false
+  oracel::memlock: '3145728'
