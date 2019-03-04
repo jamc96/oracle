@@ -19,4 +19,4 @@ oracle::packages:
   - xorg-x11-utils
   - elfutils-libelf-devel
 oracle::hugepage: false
-oracel::memlock: '3145728'
+oracle::memlock: '3145728'
